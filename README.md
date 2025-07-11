@@ -26,9 +26,9 @@ I am a dedicated student with a strong foundation in data analytics and software
 
 | Project | Description |
 |---------|-------------|
-| [**Data Analytics Portfolio**](https://github.com/theakashkumar22/Data-Analytics-Portfolio) | A curated portfolio of data analytics projects exploring real-world retail scenarios using the Superstore dataset. From data wrangling to visual storytelling. |
-| [**Software Development Projects**](https://github.com/theakashkumar22/Software-Development-Projects) | A showcase of diverse software development projects demonstrating proficiency in full-stack development and algorithms. |
-| [**Web Development Projects**](https://github.com/theakashkumar22/Web-Development-Projects) | A collection of web development projects showcasing skills in front-end and back-end technologies, UI/UX, and modern frameworks. |
+| [**Data Analytics Portfolio**](https://github.com/ashwinsivakumar21/Data-Analytics-Portfolio) | A curated portfolio of data analytics projects exploring real-world retail scenarios using the Superstore dataset. From data wrangling to visual storytelling. |
+| [**Software Development Projects**](https://github.com/ashwinsivakumar21/Software-Development-Projects) | A showcase of diverse software development projects demonstrating proficiency in full-stack development and algorithms. |
+| [**Web Development Projects**](https://github.com/ashwinsivakumar21/Web-Development-Projects) | A collection of web development projects showcasing skills in front-end and back-end technologies, UI/UX, and modern frameworks. |
 
 ---
 
